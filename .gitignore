@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/chattar/FileContentIndex
